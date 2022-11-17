@@ -4,7 +4,6 @@
 
 ![avatargithub](https://user-images.githubusercontent.com/98895127/201450060-6c775a5c-0789-4693-b0e4-fa8320739c46.png)
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jandres02&label=Profile%20views&color=0e75b6&style=flat" alt="jandres02" /> </p>
 
